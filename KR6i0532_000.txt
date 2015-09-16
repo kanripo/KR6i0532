@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 弟子死復生經
+#+DATE: 2015-08-30 20:21:59.560115
+#+PROPERTY: JUAN 0
