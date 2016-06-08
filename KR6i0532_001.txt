@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:59.308222
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:53
 #+TITLE: 弟子死復生經
 #+PROPERTY: CBETA_ID T17n0826
 #+PROPERTY: ID KR6i0532
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 826
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0532_T_000-0868b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0532_T_001-0868b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.826¶
-
- 《弟子死復生經》¶
+No. 826¶
+《弟子死復生經》¶
 ¶
 宋居士沮渠京聲譯¶
 
@@ -151,8 +150,7 @@ No.826¶
 便如從高墮下，㸌然而穌，便得生活。」
 
 父母¶
-便以車載詣祇洹以白佛，佛便呼人問之，¶
-其以所見、所言答，佛便笑，五色光從頂上出，¶
+便以車載詣祇洹以白佛，佛便呼人問之，其以所見、所言答，佛便笑，五色光從頂上出，¶
 遶身三匝還從臍入。
 
 阿難便整衣服以膝著¶
